@@ -2,13 +2,7 @@
 
 A social networking site using Next.js, MongoDB and Firebase.
 
-[See Demo deployed on Vercel](https://nextevents.vercel.app/)
-
-<p align="center">
-    <img src="screenshot.png">
-</p>
-
-## Features
+# Features
 
 - working with file-based routing and handling dynamic routes.
 - creating a general layout, adding React components and styling them with CSS modules.
@@ -23,5 +17,3 @@ A social networking site using Next.js, MongoDB and Firebase.
 - setting up a MongoDB database and getting comments for a specific event.
 - handling errors and displaying user-friendly notifications.
 - deploying on Vercel.
-
-Based on [Next.js & React - The Complete Guide](https://www.udemy.com/course/nextjs-react-the-complete-guide/) by Maximilian Schwarzmüller (2021).
